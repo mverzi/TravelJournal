@@ -1,4 +1,4 @@
-export default [
+const data = [
     {
         id: 1,
         title: "Mount Fuji",
@@ -30,3 +30,5 @@ export default [
         imageUrl: "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSBYNb_iNp5xJleuPNLYUAie_6o6w9LkVZZK9tpr9gn7x0F3_5tSFvN4l7bFpjr9jF9TS9wFkILJ7mm8qCZhiDOSBZxAbmJeIdjoJtzjA"
     },
 ]
+
+export default data
